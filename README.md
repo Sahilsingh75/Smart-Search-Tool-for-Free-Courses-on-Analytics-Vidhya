@@ -62,7 +62,7 @@ cd Smart-Search-Tool-for-Free-Courses-on-Analytics-Vidhya
 
 ## **Usage**
 1. Visit the [Hugging Face Space Link](https://huggingface.co/spaces/sahil7505/smartcoursesearch).  
-2. Enter a keyword or natural language query (e.g., "data analysis courses") in the search bar.  
+2. Enter a keyword or natural language query (e.g., "data analysis courses or machine learning") in the search bar.  
 3. The tool will return a list of the most relevant free courses, including the course name, description, and a link to the course page.
 
 ---

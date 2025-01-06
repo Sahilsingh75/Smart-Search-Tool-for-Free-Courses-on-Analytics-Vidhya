@@ -7,7 +7,7 @@
 import pandas as pd
 
 # Load the CSV file
-file_path = 'courses_detailed.csv'  # Replace with your actual CSV file path
+file_path = 'data/courses_detailed.csv' 
 data = pd.read_csv(file_path)
 
 # Clean and preprocess data
